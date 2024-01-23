@@ -1,0 +1,1 @@
+var json_bumdes_7 = {"type":"FeatureCollection","name":"bumdes_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Bumdes Pauh Angit Hulu"},"geometry":{"type":"MultiPoint","coordinates":[[101.659142749389559,-0.439059809447325]]}}]}

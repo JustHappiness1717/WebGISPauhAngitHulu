@@ -1,0 +1,1 @@
+var json_KantorDesa_11 = {"type":"FeatureCollection","name":"KantorDesa_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Kantor Desa Pauh Angit Hulu"},"geometry":{"type":"Point","coordinates":[101.659481486141047,-0.438850277991458]}}]}

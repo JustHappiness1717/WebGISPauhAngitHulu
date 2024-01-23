@@ -1,0 +1,1 @@
+var json_Puskesmas_6 = {"type":"FeatureCollection","name":"Puskesmas_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Puskesmas Pauh Angit Hlulu"},"geometry":{"type":"Point","coordinates":[101.659211805204791,-0.439206179169451]}}]}
